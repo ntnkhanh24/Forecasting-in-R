@@ -1,5 +1,4 @@
 # Forecasting-in-R
-Time Series, Naive Forecast, Sample Mean Forecast, Holt Winter, ETS Model, Plot
 This dataset “pset1.csv.” contains monthly observations for atmospheric CO2 running from March 1958 through January 2021. Begin by loading the data into R.
 
 We will use a hold-out period here, which corresponds to the last six observations in the full sample. The period from August 2020 through January 2021 will not be used in the estimation of any of the models. You will likely want to create a time series corresponding to the entire data set and another than contains only the observations from March 1958 through July 2020.
